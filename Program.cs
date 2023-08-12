@@ -6,9 +6,9 @@ Console.WriteLine("Введите число 2");
 int number2 = int.Parse(Console.ReadLine());
 if(number1 > number2)
 {
-Console.WriteLine($"Число {number1} больше числа {number2}");
+Console.WriteLine($"Число {number1} больше числа  {number2}");
 }
 else
 {
-Console.WriteLine($"Число {number2} больше числа {number1}");
+Console.WriteLine($"Число {number2} больше числа  {number1}");
 }
